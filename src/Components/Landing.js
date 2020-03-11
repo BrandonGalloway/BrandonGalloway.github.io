@@ -10,23 +10,22 @@ class Landing extends Component {
   }
   render() {
     return (
-      <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-        <div className="w-100">
-          <h1 className="mb-0">{this.landingData.firstName}
+      <section className="p-3 p-lg-5  d-flex align-items-center" id="about">
+        <div className="w-100 mt-5">
+          <h1 className="mb-0 mt-5">{this.landingData.firstName}
             <span className="text-primary">{this.landingData.lastName}</span>
           </h1>
-          <div className="subheading mb-5">{this.landingData.phoneNumber} ·
-            <a href="mailto:name@email.com">{this.landingData.email}</a>
+          <div className="subheading mb-10">{this.landingData.email}
           </div>
           <p className="lead mb-5">{this.landingData.bio}</p>
           <div className="social-icons">
-            <a href={this.landingData.linkedin}>
+            <a href={this.landingData.linkedin} target="_blank">
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
-            <a href={this.landingData.github}>
+            <a href={this.landingData.github} target="_blank">
               <FontAwesomeIcon icon={faGithub} />
             </a>
-			<a href={this.landingData.gitlab}>
+			<a href={this.landingData.gitlab} target="_blank">
               <FontAwesomeIcon icon={faGitlab} />
             </a>
           </div>
