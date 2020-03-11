@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "brandongalloway.me/static/css/main.498d002a.chunk.css",
+    "main.js": "brandongalloway.me/static/js/main.42194757.chunk.js",
+    "main.js.map": "brandongalloway.me/static/js/main.42194757.chunk.js.map",
+    "runtime~main.js": "brandongalloway.me/static/js/runtime~main.625fa9ca.js",
+    "runtime~main.js.map": "brandongalloway.me/static/js/runtime~main.625fa9ca.js.map",
+    "static/js/2.4b95fd45.chunk.js": "brandongalloway.me/static/js/2.4b95fd45.chunk.js",
+    "static/js/2.4b95fd45.chunk.js.map": "brandongalloway.me/static/js/2.4b95fd45.chunk.js.map",
+    "index.html": "brandongalloway.me/index.html",
+    "precache-manifest.2c42246daa2ddf2826b86a370f9a9910.js": "brandongalloway.me/precache-manifest.2c42246daa2ddf2826b86a370f9a9910.js",
+    "service-worker.js": "brandongalloway.me/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "brandongalloway.me/static/css/main.498d002a.chunk.css.map",
+    "static/media/profile.jpg": "brandongalloway.me/static/media/profile.859e3fee.jpg"
+  }
+}
